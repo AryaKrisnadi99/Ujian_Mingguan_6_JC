@@ -2,6 +2,8 @@ package com.juaracoding;
 
 public class Main {
     public static void main(String[] args) {
+
+//        I Gede Arya Krisnadi
         int angka=100;
         System.out.println("No 1");
         for (int i = 1; i <= angka; i++) {
